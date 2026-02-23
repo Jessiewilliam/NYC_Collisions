@@ -93,40 +93,6 @@ Reduced visibility at dusk
 Conclusion:
 Accidents are strongly correlated with peak traffic hours.
 
-3️⃣ Street with the Highest Accidents
-
-The street with the most reported collisions was:
-
-➡️ [Insert Street Name From Your Analysis]
-
-It accounted for approximately:
-
-➡️ [Insert Percentage]% of total accidents
-
-Insight:
-High-traffic intersections and commercial zones tend to show higher collision density.
-
-4️⃣ Most Common Contributing Factor
-🚨 Vehicle 1 Contributing Factor
-
-The most frequent contributing factor was:
-
-➡️ Driver Inattention/Distraction (if this matches your result)
-
-This indicates:
-
-Mobile phone usage
-
-Lack of focus
-
-Cognitive distractions
-
-5️⃣ Contributing Factor in Fatal Accidents
-
-Fatal collisions were most commonly associated with:
-
-➡️ [Insert Your Result – e.g., Unsafe Speeding / Failure to Yield]
-
 Insight:
 Fatal accidents tend to involve high-risk behaviors rather than minor negligence.
 
@@ -163,8 +129,6 @@ Borough comparison
 
 Street-level analysis
 
-📸 (Insert Screenshot of Your Dashboard Here)
-
 📁 Repository Structure
 NYC-Collisions-Analysis/
 │
@@ -176,7 +140,7 @@ NYC-Collisions-Analysis/
 
 Clone this repository:
 
-git clone https://github.com/yourusername/NYC-Collisions-Analysis.git
+git clone https://github.com/JessicaWilliam/NYC-Collisions-Analysis.git
 
 Install required libraries:
 
@@ -192,15 +156,6 @@ jupyter notebook JessicaWilliam.ipynb
 ✔ Driver inattention is the leading cause of collisions
 ✔ Fatal accidents are more linked to high-risk behaviors
 
-📢 LinkedIn Submission Instructions
-
-Post your GitHub documentation link on LinkedIn
-
-Post a screenshot of your dashboard
-
-Tag DigitaleyDrive
-
-Submit using the provided Google Form
 
 👩‍💻 Author
 
